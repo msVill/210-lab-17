@@ -1,4 +1,9 @@
 // comsc 210 | Martha Villalta | Lab 17
+// Modify the starter code:
+// create functions: for code that can be reused.
+// Operations Performed by the Functions:
+// adding a node to the tail; deleting a node; inserting a node; delete list.
+
 #include <iostream>
 using namespace std;
 
